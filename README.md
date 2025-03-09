@@ -29,5 +29,8 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn]([www.linkedin.com/in/vaishnavi-amancharla-abb6732a7](https://www.linkedin.com/in/vaishnavi-amancharla-abb6732a7/)) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-amancharla-abb6732a7/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/VaishnaviAmancharla) 
+
+
 
