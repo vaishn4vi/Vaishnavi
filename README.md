@@ -29,5 +29,5 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](www.linkedin.com/in/vaishnavi-amancharla-abb6732a7) 
+[![LinkedIn]([www.linkedin.com/in/vaishnavi-amancharla-abb6732a7](https://www.linkedin.com/in/vaishnavi-amancharla-abb6732a7/)) 
 
